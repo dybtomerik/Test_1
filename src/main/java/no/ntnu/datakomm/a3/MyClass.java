@@ -27,7 +27,7 @@ public class MyClass {
     }
 
     private static void feature5() {
-        System.out.println("Feature #5");
+        System.out.println("Jeg ble veldig sulten nå, tror jeg tar meg et knekkebrød.");
     }
 
     public static void main(String[] args) {
