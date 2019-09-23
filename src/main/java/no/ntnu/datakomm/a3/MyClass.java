@@ -1,17 +1,18 @@
 package no.ntnu.datakomm.a3;
 
 /**
- * Implement the "features", place your code where the TODO tags are. 
+ * Implement the "features", place your code where the TODO tags are.
  * Read description of assignment A3 to understand the details.
  */
 public class MyClass {
 
     private static void feature1() {
-        System.out.println("Hei,dette er første endringen.")
+        System.out.println("Hei,dette er første endringen.");
     }
 
     private static void feature2() {
-        // TODO - print "Feature #2"
+        System.out.println("Hei,dette er andre endringen.");
+
     }
 
     private static void feature3() {
