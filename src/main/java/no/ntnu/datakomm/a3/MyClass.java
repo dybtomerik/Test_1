@@ -20,7 +20,10 @@ public class MyClass {
     }
 
     private static void feature4() {
-        System.out.println("Endring nr 4");
+        System.out.println("Hei");
+        System.out.println("Jeg heter Vilde");
+        System.out.println("og dette er endring 4.");
+
     }
 
     private static void feature5() {
